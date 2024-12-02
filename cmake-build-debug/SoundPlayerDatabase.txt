@@ -1,0 +1,9 @@
+2
+Nature,4
+Forest,Audios/Forest Sound.mp3,Natural
+Wind,Audios/Wind Sound.mp3,Natural
+River,Audios/River Sound.mp3,Natural
+Rain,Audios/Rain Sound.mp3,Natural
+Quran,2
+Surah El-Falaq,Audios/Surah El-Falaq.mp3,Macciah
+Surah El-Nas,Audios/Surah El-Nas.mp3,Macciah
